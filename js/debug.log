@@ -1,0 +1,9 @@
+[1129/090416:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[1129/090416:ERROR:block_files.cc(477)] Failed to open C:\Users\濮氬嚡鍐沑AppData\Local\Tencent\Minibrowser\UserData\data_0
+[1129/090416:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1129/090416:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\濮氬嚡鍐沑AppData\Local\Tencent\Minibrowser\UserData to C:\Users\濮氬嚡鍐沑AppData\Local\Tencent\Minibrowser\old_UserData_000
+[1129/090416:ERROR:cache_creator.cc(133)] Unable to create cache
+[1129/090417:WARNING:raw_channel_win.cc(473)] WriteFile: 管道正在被关闭。 (0xE8)
+[1129/090417:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 2147483649, remote ID 3)
+[1129/090417:WARNING:channel.cc(549)] Failed to send message to ack remove remote endpoint (local ID 2147483648, remote ID 2)
+[1129/090417:WARNING:channel.cc(315)] RawChannel write error

@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.beijing{
+	width: 7.5rem;
+	height: 16.42rem;
+	/* background: #fbfbfb; */
+}
+.daohang{
+	width: 100%;
+	height: 1rem;
+	/* background: #404040; */
+
+}
+.ke{
+	width: 0.75rem;
+	height: 0.38rem;
+	/* background: #606060; */
+	float: left;
+	margin-left: 0.24rem;
+	margin-top: 0.58rem;
+	font-size: 0.36rem;
+    color: #dcddde;
+    line-height: 0.38rem;
+}
+.zuo{
+	width: 1.25rem;
+	height: 0.61rem;
+	/* background: #606060; */
+	float: left;
+	margin-left: 0.30rem;
+	margin-top: 0.35rem;
+	font-size: 0.60rem;
+	color: #666a71;
+	 line-height: 0.61rem;
+	  font-weight: bold;
+	 font-family: "苹方"
+}
+.suitang{
+	width: 7.02rem;
+	height: 1.72rem;
+	background: #ffffff;
+    margin-left: 0.24rem;
+    margin-top: 0.64rem;
+    border-radius: 0.40rem;
+    box-shadow: 0 0 0.4rem 0.03rem rgba(232,232,232, 0.5);
+}
+.cuoti{
+	width: 7.02rem;
+	height: 1.72rem;
+	background: #ffffff;
+    margin-left: 0.24rem;
+    margin-top: 0.72rem;
+    border-radius: 0.40rem;
+    box-shadow: 0 0 0.4rem 0.03rem rgba(232,232,232, 0.5);
+}
+.diyi{
+	width: 2.48rem;
+	height: 1.04rem;
+	background: #ffffff;
+    float: left;
+    margin-left: 0.24rem;
+    margin-top: 0.37rem;
+}
+.dier{
+	width: 1.59rem;
+	height: 0.88rem;
+	/* background: #808080; */
+    float: left;
+    margin-left: 0.59rem;
+    margin-top: 0.69rem;
+}
+.disan{
+	width: 1.01rem;
+	height: 0.98rem;
+	/* background: #808080; */
+    float: left;
+    margin-left: 0.91rem;
+    margin-top: 0.33rem;
+}
+.s{
+	width: 100%;
+	height: 50%;
+	/* background: #fdfdfd; */
+	 float: left;
+	 font-size: 0.30rem;
+	color: #737373;
+	 font-weight: bold;
+	 font-family: "苹方"
+}
+.ji{
+	width: 100%;
+	height: 50%;
+	/* background: #404040; */
+    float: left;
+    
+}
+.dian{
+	width: 0.05rem;
+	height: 0.05rem;
+	background: #ddc52a;
+    float: left;
+    margin-top: 0.34rem;
+
+}
+.xiaozhishi{
+	width: 2.36rem;
+	height: 0.32rem;
+	/* background: #606060; */
+	float: left;
+	font-size: 0.24rem;
+	color: #cacaca;
+	/*  font-weight: bold; */
+	font-family: "苹方";
+    margin-left: 0.07rem;
+    margin-top: 0.20rem;
+
+}
+.h{
+	width: 1.59rem;
+	height: 0.88rem;
+	float: left;
+}
+.hh{
+	width: 1.01rem;
+	height: 0.98rem;
+	float: left;
+}
+.tab{
+	width: 100%;
+	height: 1rem;
+	/* background: #c9bab4; */
+	margin-top: 5.86rem;
+    position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.yi{
+	width: 2.44rem;
+	height: 1rem;
+	/* background: #000000; */
+	float: left;
+}
+.er{
+	width: 2.04rem;
+	height: 1rem;
+	/* background: #404040; */
+	float: left;
+}
+.san{
+	width: 2.04rem;
+	height: 1rem;
+	/* background: #606060; */
+	float: left;
+}
+.si{
+	width: 0.98rem;
+	height: 1rem;
+	/* background: #000000; */
+	float: left;
+}
+.c{
+	width: 0.71rem;
+	height: 0.87rem;
+	float: left;
+	margin-top: 0.1rem;
+	margin-left: 0.48rem;
+}
+.t{
+	width: 0.50rem;
+	height: 0.80rem;
+	float: left;
+	margin-top: 0.18rem;
+	/* margin-left: 0.48rem; */
+}
+.z{
+	width: 0.50rem;
+	height: 0.80rem;
+	float: left;
+	margin-top: 0.18rem;
+	/* margin-left: 0.48rem; */
+}
+.w{
+	width: 0.50rem;
+	height: 0.80rem;
+	float: left;
+	margin-top: 0.18rem;
+	/* margin-left: 0.48rem; */
+}
